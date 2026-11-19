@@ -94,7 +94,7 @@ if choice1 == "Swim":
         print("Invalid choice. GAME OVER.")
 
 elif choice1 == "Wait":
-    print("Your boat gets damaged, and you lose supplies.")
+    print("Your boat gets damaged, and you die.")
     print("GAME OVER")
 
 else:
